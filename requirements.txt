@@ -1,0 +1,5 @@
+Flask==3.0.0
+line-bot-sdk==3.5.0
+gunicorn==21.2.0
+deep-translator==1.11.4
+langdetect==1.0.9
